@@ -119,8 +119,7 @@ Visit http://localhost:3000 in your browser.
 👨‍💻 Project Team
 
 Suman Kar – Portfolio
-
-Pallavi Jha – LinkedIn
+Pallavi Jha– LinkedIn
 
 
 Special thanks to my teammate Pallavi for handling the UI design part with great dedication. Your frontend skills elevated the user experience!
